@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Sobre mim
 
-Prazer, me chamo **João Marcos da Mota**! Sou **piauiense** e estudante de **Sistemas de Informação** pela **Universidade Federal do Piauí (UFPI)**. Tenho interesse especial em **programação back-end** e **redes de computadores**, áreas nas quais busco **aprimorar meus conhecimentos** e **enfrentar desafios cada vez maiores**, sempre em busca do crescimento profissional.
+Prazer, me chamo **João Marcos da Mota**! Estudante de **Sistemas de Informação** pela **Universidade Federal do Piauí (UFPI)**. Tenho interesse especial em **programação back-end** e **redes de computadores**, áreas nas quais busco **aprimorar meus conhecimentos** e **enfrentar desafios cada vez maiores**, sempre em busca do crescimento profissional.
 
 ## 🛠️ Tecnologias
 
